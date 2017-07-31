@@ -1,3 +1,4 @@
+%% This code generate ROI masks according to the tumor location
 clear
 close all
 
