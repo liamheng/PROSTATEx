@@ -1,5 +1,5 @@
 '''
-This script performs modals registration inter subjects. Software FLS is necassary.
+This script performs modals registration inter subjects. Regist all modals to T2-Tra image. Software FLS is necassary.
 Author: Heng Li
 Email: lihengbit@foxmail.com
 Date: 06/20/2017
