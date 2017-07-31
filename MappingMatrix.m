@@ -1,4 +1,4 @@
-%% This code transform patient position to image location
+%% This code transforms patient position to image location
 function M=MappingMatrix(PatientPosition,PatientOrientation,VoxelSpacing)
 %load the header
 % info = dicominfo(filename, 'dictionary', yourvendorspecificdictfilehere);
